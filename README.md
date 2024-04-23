@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning 📖🐍Python🐍📖
+Hi! I am Aybars I am 11 years old. I`m learning the python
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif?cid=790b7611ufm9p1k6dyi89ypshxx6smy0nsr0crdn7qtggsea&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="130">
 
 <!--
 **Aybars2308/Aybars2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
